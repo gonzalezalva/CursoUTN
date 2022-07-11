@@ -1,0 +1,50 @@
+
+#titulo {
+    font-size: xx-large;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div h2, div h3, div h4 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{font-size: 24px;
+    color: rgb(15, 74, 235);}
+    /* esto es un comentario*/
+#titulo {
+    border: 5px rgb(15, 74, 235) solid;
+    border-radius: 5px;
+    border-width: 5px;
+ }   
+ul  {
+    border-style: dotted;
+    border-color: rgb(15, 74, 235);
+    border-radius: 5px;
+    border-width: 4px;
+
+ }
+#formulario {
+    border-style: groove;
+    border-color: rgb(15, 74, 235)k;
+    border-radius: 5px;
+    border-width: 2px;
+ }
+ #formulario {
+    background-image: url(fondo-blanco.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    border-width: 2px;
+ }
+
+div {
+    background-image: url(fondo-blanco.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    border-width: 2px;
+ }
+ #foto {
+    border: 5px rgb(15, 74, 235) solid;
+    border-radius: 5px;
+    border-width: 2px;
+ }
