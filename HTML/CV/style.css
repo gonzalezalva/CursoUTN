@@ -8,6 +8,7 @@
 div h2, div h3, div h4 {
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 80px;
 }
 *{font-size: 24px;
     color: rgb(15, 74, 235);}
@@ -16,13 +17,19 @@ div h2, div h3, div h4 {
     border: 5px rgb(15, 74, 235) solid;
     border-radius: 5px;
     border-width: 5px;
+    background-color: rgb(15, 74, 235);
+    width: 280px;
+    padding: 10px;
+    margin-left: 300px;
  }   
 ul  {
     border-style: dotted;
     border-color: rgb(15, 74, 235);
     border-radius: 5px;
     border-width: 4px;
-
+    width: 600px;
+    margin-left: 100px;
+    
  }
 #formulario {
     border-style: groove;
@@ -47,4 +54,5 @@ div {
     border: 5px rgb(15, 74, 235) solid;
     border-radius: 5px;
     border-width: 2px;
+    margin-left: 260px;
  }
