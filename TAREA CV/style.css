@@ -1,0 +1,83 @@
+#titulo {color: rgb(67, 67, 80); font-size: 40px;
+    border-radius: 41px 41px 41px 41px;
+-webkit-border-radius: 41px 41px 41px 41px;
+-moz-border-radius: 41px 41px 41px 41px;
+background: #158cba;
+border: 3px solid #ff6550;
+margin: 15px 20px 25px 30px;
+padding: 15px 15px 15px 15px;
+width: 600px;
+height: 50px;
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+#datos {color: rgb(67, 67, 80); font-size: 40px;
+    border-radius: 41px 41px 41px 41px;
+    -webkit-border-radius: 41px 41px 41px 41px;
+    -moz-border-radius: 41px 41px 41px 41px;
+    background: #158cba;
+    border: 3px solid #ff6550;
+    margin: 15px 20px 25px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 100px;
+    height: 25px;
+    font-size: 24px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);}
+#experiencia{color: rgb(67, 67, 80); font-size: 40px;
+    border-radius: 41px 41px 41px 41px;
+    -webkit-border-radius: 41px 41px 41px 41px;
+    -moz-border-radius: 41px 41px 41px 41px;
+    background: #158cba;
+    border: 3px solid #ff6550;
+    margin: 15px 20px 25px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 220px;
+    height: 25px;
+    font-size: 24px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);}
+#educacion {color: rgb(67, 67, 80); font-size: 40px;
+    border-radius: 41px 41px 41px 41px;
+    -webkit-border-radius: 41px 41px 41px 41px;
+    -moz-border-radius: 41px 41px 41px 41px;
+    background: #158cba;
+    border: 3px solid #ff6550;
+    margin: 15px 20px 25px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 120px;
+    height: 25px;
+    font-size: 24px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);}
+#cursos {color: rgb(67, 67, 80); font-size: 40px;
+    border-radius: 41px 41px 41px 41px;
+    -webkit-border-radius: 41px 41px 41px 41px;
+    -moz-border-radius: 41px 41px 41px 41px;
+    background: #158cba;
+    border: 3px solid #ff6550;
+    margin: 15px 20px 25px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 80px;
+    height: 25px;
+    font-size: 24px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);}
+body {background: #f8eeee;
+    background: linear-gradient(263deg,#f8eeee 0%, #ececd6 40%, #ffffff 80%);
+    background: -webkit-linear-gradient(263deg,#f8eeee 0%, #ececd6 40%, #ffffff 80%);
+    background: -moz-linear-gradient(263deg,#f8eeee 0%, #ececd6 40%, #ffffff 80%);
+}
+ #foto {border: 3px solid #ff6550;
+    border-radius: 41px 41px 41px 41px;
+    -webkit-border-radius: 41px 41px 41px 41px;
+    -moz-border-radius: 41px 41px 41px 41px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);}
