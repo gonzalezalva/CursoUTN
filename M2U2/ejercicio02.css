@@ -1,12 +1,9 @@
-body {
-    background-color: bisque;
-}
 
 .flex-container {
     border: 3px solid black;
     background-color: white;
     display: flex;
-
+margin: auto;
     flex-direction: row;
     align-items:center;
     max-width: fit-content;
@@ -21,6 +18,8 @@ body {
     font-weight: bold;
     text-align: center;
     line-height: 250px;
+    justify-content: center;
+    align-items: center;
 }
 
 #caja1 {
