@@ -1,0 +1,35 @@
+#contenedor {
+    background-color: yellow;
+    display: flexbox;
+    flex-direction: column;
+    align-content: flex-end;
+
+
+}
+
+#caja1 {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+#caja2 {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+#caja3 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+}
